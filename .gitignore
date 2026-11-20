@@ -1,0 +1,13 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Generated motion recordings
+recordings/
+motion_log.txt
+
+# Unused starter files
+main.py
+Opencv.py
